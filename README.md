@@ -6,7 +6,7 @@
 ## 🔗 Featured Projects
 📊 [Power BI Credit Card Portfolio Dashboard](https://github.com/Sachinsingh-404/credit-card-dashboard)  
 📌 [SQL-Based Pizza Sales Analysis](https://github.com/Sachinsingh-404/sql-pizza-analysis)  
-📊 [Python Data Cleaning - Cricket Dataset](https://github.com/Sachinsingh-404/cricket-data-cleaning)  
+📊 [Python Data Cleaning - Cricket Dataset]([https://github.com/Sachinsingh-404/cricket-data-cleaning](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git))  
 🛠 [Remote Hydroponic Farm Automation](https://github.com/Sachinsingh-404/hydroponic-automation)  
 
 ## 📫 Connect with Me  
