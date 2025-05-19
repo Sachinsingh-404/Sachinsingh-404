@@ -8,12 +8,13 @@
 📌 [SQL-Based Pizza Sales Analysis](https://github.com/Sachinsingh-404/Pizza-Sales-Analysis.git)  
 📊 [Python Data Cleaning - Cricket Dataset](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git)  
 🛠 [Predicting Weight from Height Using Linear Regression](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git)
+
 📊 [Store Data Analysis and Insights ](https://github.com/Sachinsingh-404/Power-BI-Dashboard-for-Credit-Card-Portfolio-Analysis.git)  
 
 --- MORE LOADING . . . . .
 
 ## 📫 Connect with Me  
-[LinkedIn] [http://www.linkedin.com/in/sachinsingh54] | [Email](mailto:sachinsingh.rnd@gmail.com)  
+[LinkedIn](http://www.linkedin.com/in/sachinsingh54) | [Email](mailto:sachinsingh.rnd@gmail.com)  
 
 - ⚡ Fun fact:  I have a unique mix of engineering expertise and data analytics skills, allowing me to blend hardware and software for real-world solutions!
 
