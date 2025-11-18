@@ -4,12 +4,15 @@
 🔹 ** I’m currently learning advanced SQL queries,python libraries(numpy ,pandas ), and improving my Power BI dashboarding skills.
 
 ## 🔗 Featured Projects
-📊 [Power BI Credit Card Portfolio Dashboard]([https://github.com/Sachinsingh-404/credit-card-dashboard](https://github.com/Sachinsingh-404/Power-BI-Dashboard-for-Credit-Card-Portfolio-Analysis.))  
-📌 [SQL-Based Pizza Sales Analysis](https://github.com/Sachinsingh-404/Pizza-Sales-Analysis.git)  
-📊 [Python Data Cleaning - Cricket Dataset](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git)  
-🛠 [Predicting Weight from Height Using Linear Regression](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git)
+📊 [Power BI Credit Card Portfolio Dashboard](https://github.com/Sachinsingh-404/Power-BI-Dashboard-for-Credit-Card-Portfolio-Analysis.)
 
-📊 [Store Data Analysis and Insights ](https://github.com/Sachinsingh-404/Power-BI-Dashboard-for-Credit-Card-Portfolio-Analysis.git)  
+📌 [SQL-Based Pizza Sales Analysis](https://github.com/Sachinsingh-404/Pizza-Sales-Analysis.git)  
+
+📊 [Python Data Cleaning - Cricket Dataset](https://github.com/Sachinsingh-404/Data-Cleaning-With-Pandas.git)  
+
+🛠 [Predicting Weight from Height Using Linear Regression](https://github.com/Sachinsingh-404/Predicting-Weight-from-Height-Using-Linear-Regression)
+
+📊 [Store Data Analysis and Insights ](https://github.com/Sachinsingh-404/Store-Data-Analysis-And-Insights.)  
 
 --- MORE LOADING . . . . .
 
